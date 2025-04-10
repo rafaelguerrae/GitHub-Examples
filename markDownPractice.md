@@ -25,11 +25,8 @@
     - Hello 3
 
 ---
----
----
----
 
-[This should be a link to my profile on GitHUb](https://github.com/rafaelguerrae)
+### [Click me! This should be a link to my profile on GitHub](https://github.com/rafaelguerrae)
 
 ![this is an image](github.png)
 
@@ -48,5 +45,7 @@
 
 :joy:
 
-- [] Make a list of what to do
+- [ ] Make a list of what to do
 - [X] Make a list of what to do2
+
+This is the *END* **END**
